@@ -1,5 +1,6 @@
 <img width="736" height="660" alt="hate" src="https://github.com/user-attachments/assets/556a415b-125e-45d1-80df-e9b42246fba9" />
-
+ <p align="center"> <img width="99" height="57" alt="659680047-86809655-dc22-43bf-bb93-dab4165c7b84" src="https://github.com/user-attachments/assets/223f8d58-3f8a-48f9-bfa5-66164443dd2e" />
+ </p>
 <!--
 **stan-mp3/stan-mp3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
